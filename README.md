@@ -1,3 +1,7 @@
+# This is an incomplete and essentially dead project. Its failure point was being too complicated too fast. I wrote a simple hack to hold me over till this got far enough along and it turns out the hack got me far enough along I never finished this
+# Sadly no, I dont rememeber exactly what the hack was I wrote this years ago and it died with my company laptop 
+# but essentially it was a set of ultilities that made working with a thrift api in a repl easier
+
 # Thrift Explorer
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://github.com/Bachmann1234/thrift-explorer/blob/master/LICENSE)
